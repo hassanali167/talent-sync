@@ -15,7 +15,7 @@ However, I wouldn't give him a perfect score because:
 1. **Limited professional experience**: Although Hassan has interned and worked on various projects, his professional experience is limited to a few months, which might not be enough to demonstrate his expertise in Django.
 2. **Lack of specific Django projects**: While Hassan has mentioned Django as one of his skills, he hasn't specifically mentioned any projects or experiences that showcase his expertise in Django.
 
-Overall, Hassan's CV demonstrates a strong foundation in Python, web development, and relevant technical skills, making him a promising candidate for the job. However, the lack of extensive professional experience and specific Django projects might require further evaluation or discussion during the hiring process.
+Overall, Hassan's CV  are demonstrates a strong foundation in Python, web development, and relevant technical skills, making him a promising candidate for the job. However, the lack of extensive professional experience and specific Django projects might require further evaluation or discussion during the hiring process.
 
 **Ranking Breakdown:**
 
