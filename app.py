@@ -35,6 +35,10 @@ def upload_files():
 
     return jsonify({"report_file": report_file})
 
+
+
+
+
 @app.route('/download/<filename>')
 def download_file(filename):
     return send_file(os.path.join(app.config['RESULT_FOLDER'], filename), as_attachment=True)
